@@ -1,0 +1,31 @@
+Política de Seguridad y Privacidad
+Última actualización: [19/05/2024]
+Introducción
+Gracias por utilizar [Galeria] ("la Aplicación"). Tu privacidad es muy importante para nosotros. Esta Política de Seguridad y Privacidad explica cómo recopilamos, utilizamos, compartimos y protegemos la información sobre los usuarios de nuestra Aplicación. Al utilizar la Aplicación, aceptas las prácticas descritas en esta política.
+
+1. Información que Recopilamos
+Información de Uso:
+No recopilamos ninguna información personal ni datos de uso específicos mientras utilizas la Aplicación. La Aplicación no solicita, almacena ni transmite datos personales o identificables de ninguna manera.
+
+Archivos Multimedia:
+La Aplicación accede a los archivos multimedia (fotos, videos, audios) almacenados en tu dispositivo únicamente para permitirte ver, reproducir, eliminar y compartir estos archivos. La Aplicación no recopila, almacena ni transmite estos archivos a servidores externos.
+
+2. Uso de la Información
+La información de los archivos multimedia se utiliza exclusivamente para proporcionar las funciones de la Aplicación, es decir, ver, reproducir, eliminar y compartir archivos multimedia. No utilizamos ni compartimos esta información para otros fines.
+
+3. Seguridad de la Información
+Nos comprometemos a proteger la información almacenada en tu dispositivo. Implementamos medidas de seguridad adecuadas para proteger tus archivos multimedia contra el acceso no autorizado, la alteración, la divulgación o la destrucción. Sin embargo, no podemos garantizar la seguridad absoluta de la información debido a las limitaciones inherentes de internet y la tecnología móvil.
+
+4. Compartir Información
+La Aplicación no comparte información con terceros. Las funciones de compartir archivos multimedia se realizan a través de aplicaciones externas seleccionadas por el usuario (por ejemplo, aplicaciones de mensajería o redes sociales), y la privacidad de los datos compartidos depende de las políticas de esas aplicaciones.
+
+5. Permisos Requeridos
+La Aplicación requiere ciertos permisos para funcionar correctamente:
+
+Acceso a Almacenamiento: Para permitir ver, reproducir, eliminar y compartir archivos multimedia.
+Acceso a Internet: Para facilitar la función de compartir a través de aplicaciones que requieran conexión a internet.
+6. Cambios en esta Política
+Nos reservamos el derecho de actualizar esta Política de Seguridad y Privacidad en cualquier momento. Te notificaremos sobre cualquier cambio publicando la nueva política en esta página. Te recomendamos revisar esta política periódicamente para estar informado sobre cómo protegemos tu información.
+
+7. Contacto
+Si tienes alguna pregunta o inquietud sobre esta Política de Seguridad y Privacidad, por favor contáctanos a traves del siguiente correo: elventi1987@gmail.com.
